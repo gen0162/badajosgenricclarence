@@ -8,7 +8,7 @@ struct Student
     public int YearLevel;
 }
 
-class Problem1
+class Problem1_Array
 {
     static Student[] students = new Student[10];
     static int studentCount = 0;
@@ -190,4 +190,3 @@ class Problem1
         Console.WriteLine("Student deleted successfully!\n");
     }
 }
-. 
